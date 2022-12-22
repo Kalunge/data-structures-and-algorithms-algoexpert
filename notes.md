@@ -1,6 +1,10 @@
 ## Complexrity analysis
+- The process of determining how efficieant an algorithm is. Complexity analysis involves finding both the time and space complexity of an algorithm. 
+- Complexity analysis is effectively used to determine how 'good' an algorithm is and whether it is better than another oe.  
 ### Time complexity
 - how fast an algorithm runs -> the faster the better
+- A measure of how fast an algorithm runs, time complexity is a central concept in the field of algorithms and in coding interviews. 
+- It is expressed in form of Big O Notation
 #### Memory
 - [
   0  | 1  | 2  | 3
