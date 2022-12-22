@@ -30,7 +30,8 @@ a = [1,2,3 ...]
 
 ### Space complexity
 - what space/memory takes -> The less the better
-- 
+- A measure of how much auxiliary memory an algorithm takes up, space complexity is a central concept in the field of algorithms and coding interviews
+- It is expressed using Big O Notation
 
 ### Space-Time complexity
 
