@@ -93,3 +93,7 @@ For example, some sorting algorithms have different time complexities depending 
 
 Thus when describing the time complexty of an algorithm, it can be sometimes helpful to specify whether the time complexity refers to the average case or the worst case eg 'this algorithm uns in O(n log(n)) time on average and in O(n squared) time in the worst case'.
 
+### Logarithm
+
+
+
